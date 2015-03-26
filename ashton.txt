@@ -1,1 +1,2 @@
 I have some stuff in a file.
+Now I have more stuff in the file.
